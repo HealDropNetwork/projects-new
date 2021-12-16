@@ -8,14 +8,12 @@ https://www.healdropnetwork.net
 * Site Adı: optimalmetal.com
 * Site Adresi: Optimal Metal
 * Açıklama: Klima gizleme kafesi imalatı yapan firmaya sağladığım web site hizmeti.
-* Açıldığı Tarih: 2 Ay
-* Sitenin ilerleyen günlerdeki hedefleri: Blog veya destek sistemi tarzı bir bilgilendirme sayfası şuanlık planlanıyor.
+
 
 * Site Adı: climbay.com
 * Site Adresi: Climbay Makine
 * Açıklama: Metal endüstri üzerine imalat yapan firmaya sağladığım web site hizmeti.
-* Açıldığı Tarih: 2 Ay
-* Sitenin ilerleyen günlerdeki hedefleri: Müşterimizin sade bir görünüm isteği sonucu böyle bir çalışma yaptık. Daha yenilikçi bir görünüme geçilmesi planlanıyor.
+
 
 
 # Offline olarak önceden yaptığım çalışmalar
