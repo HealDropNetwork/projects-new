@@ -15,6 +15,10 @@ https://www.healdropnetwork.net
 * Açıklama: Metal endüstri üzerine imalat yapan firmaya sağladığım web site hizmeti.
 
 
+* Site Adı: kaplanmak.com
+* Site Adresi: Kaplan Makina
+* Açıklama: İnşaat sektöründe; Şap Makineleri - Alçı Sıva Makineleri - Kara Sıva Makineleri satış ve kiralama hizmetini veren firmaya sağladığım web site hizmeti
+
 
 # Offline olarak önceden yaptığım çalışmalar
 * İndirme Linki : https://www.dosyaupload.com/1qdqg/healdropnetwork-projects-offline.rar
